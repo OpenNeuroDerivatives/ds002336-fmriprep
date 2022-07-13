@@ -1,1 +1,1 @@
-../../../../.git/annex/objects/xw/gQ/MD5E-s8205--58559e556914db8861035a60a84f92b7.cmd/MD5E-s8205--58559e556914db8861035a60a84f92b7.cmd
+/annex/objects/MD5E-s8205--58559e556914db8861035a60a84f92b7.cmd
