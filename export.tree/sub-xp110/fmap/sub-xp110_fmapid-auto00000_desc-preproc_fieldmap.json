@@ -1,0 +1,25 @@
+{
+  "AnatomicalReference": "sub-xp110_fmapid-auto00000_desc-magnitude_fieldmap.nii.gz",
+  "AssociatedCoefficients": [
+    "sub-xp110_fmapid-auto00000_desc-coeff0_fieldmap.nii.gz",
+    "sub-xp110_fmapid-auto00000_desc-coeff1_fieldmap.nii.gz"
+  ],
+  "B0FieldIdentifier": "auto_00000",
+  "IntendedFor": [
+    "func/sub-xp110_task-MIpost_bold.nii.gz",
+    "func/sub-xp110_task-MIpre_bold.nii.gz",
+    "func/sub-xp110_task-eegNF_bold.nii.gz",
+    "func/sub-xp110_task-eegfmriNF_bold.nii.gz",
+    "func/sub-xp110_task-fmriNF_bold.nii.gz",
+    "func/sub-xp110_task-motorloc_bold.nii.gz"
+  ],
+  "RawSources": [
+    "/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/fmriprep/ds002336-fmriprep/sourcedata/raw/sub-xp110/func/sub-xp110_task-eegfmriNF_bold.nii.gz",
+    "/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/fmriprep/ds002336-fmriprep/sourcedata/raw/sub-xp110/func/sub-xp110_task-eegNF_bold.nii.gz",
+    "/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/fmriprep/ds002336-fmriprep/sourcedata/raw/sub-xp110/func/sub-xp110_task-fmriNF_bold.nii.gz",
+    "/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/fmriprep/ds002336-fmriprep/sourcedata/raw/sub-xp110/func/sub-xp110_task-MIpost_bold.nii.gz",
+    "/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/fmriprep/ds002336-fmriprep/sourcedata/raw/sub-xp110/func/sub-xp110_task-MIpre_bold.nii.gz",
+    "/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/fmriprep/ds002336-fmriprep/sourcedata/raw/sub-xp110/func/sub-xp110_task-motorloc_bold.nii.gz"
+  ],
+  "Units": "Hz"
+}
